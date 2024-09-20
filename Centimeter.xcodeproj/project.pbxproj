@@ -68,6 +68,7 @@
 		DF9D7EA72C9D692400A26B07 /* AppIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIntent.swift; sourceTree = "<group>"; };
 		DF9D7EA92C9D692500A26B07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF9D7EAB2C9D692500A26B07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF9D7EB22C9D6A7E00A26B07 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +94,7 @@
 		DF570F5D2C9CF767009E2CC8 = {
 			isa = PBXGroup;
 			children = (
+				DF9D7EB22C9D6A7E00A26B07 /* readme.md */,
 				DF9D7E982C9D662400A26B07 /* MemoWidgetExtension.entitlements */,
 				DF570F682C9CF767009E2CC8 /* Centimeter */,
 				DF9D7EA02C9D692300A26B07 /* MemoWidget */,
